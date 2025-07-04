@@ -1,4 +1,5 @@
 # Dodge It! - Pyxel製シンプル避けゲーム
+![image](https://github.com/user-attachments/assets/d8a06354-69b2-4feb-9860-931a8c143349)
 
 ## 概要
 「Dodge It!」は、PythonのゲームライブラリPyxelを使って作成した、障害物を避けてスコアを競うシンプルなアクションゲームです。
